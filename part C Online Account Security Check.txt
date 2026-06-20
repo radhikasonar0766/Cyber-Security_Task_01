@@ -1,0 +1,8 @@
+Table summarizing of findings
+
+| Account   | MFA Enabled | Strong Password | Recovery Email Configured |
+| --------- | ----------- | --------------- | ------------------------- |
+| Google    | Yes         | Yes             | Yes                       |
+| Instagram | Yes         | Yes             | Yes                       |
+| GitHub    | Yes         | Yes             | Yes                       |
+

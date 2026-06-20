@@ -1,0 +1,91 @@
+. Phishing
+Definition
+
+Phishing is a type of cyberattack where criminals try to trick people into giving away sensitive information such as passwords, bank details, credit card numbers, or personal information. They usually do this by sending fake emails, text messages, or creating fake websites that look like they come from trusted organizations.
+
+The goal of phishing is to make victims believe the message is real so they will click on a malicious link, download a harmful file, or share confidential information.
+
+Real-World Example
+
+A person receives an email that appears to be from their bank. The email says there is a problem with their account and asks them to click a link and log in. The link leads to a fake website that looks exactly like the bank's website. When the person enters their username and password, the attacker steals the information.
+
+Prevention Methods
+Always check the sender's email address carefully.
+Do not click on suspicious links or attachments.
+Verify requests for personal information directly with the organization.
+Use Multi-Factor Authentication (MFA).
+Keep your web browser and security software updated.
+Be cautious of messages that create a sense of urgency or fear.
+2. Malware
+Definition
+
+Malware is short for "malicious software." It is any software designed to harm, damage, or gain unauthorized access to a computer, network, or device.
+
+Malware can take many forms, including viruses, worms, spyware, and trojans. Once installed, it can steal information, slow down devices, monitor user activities, or damage files.
+
+Real-World Example
+
+A user downloads a free program from an untrusted website. The program contains hidden malware that installs itself on the computer. The malware secretly records keystrokes and sends passwords and personal information to cybercriminals.
+
+Prevention Methods
+Install and regularly update antivirus software.
+Download software only from trusted sources.
+Avoid opening unknown email attachments.
+Keep operating systems and applications updated.
+Scan files before opening them.
+Regularly back up important data.
+3. Ransomware
+Definition
+
+Ransomware is a specific type of malware that locks or encrypts a victim's files and demands money (a ransom) to restore access.
+
+After infecting a device, ransomware prevents users from accessing their files until a payment is made. Even if the ransom is paid, there is no guarantee that the files will be recovered.
+
+Real-World Example
+
+A company's employee opens a malicious email attachment. The ransomware quickly spreads through the company's network and encrypts important business files. The attackers demand thousands of dollars in exchange for a decryption key.
+
+Prevention Methods
+Back up important files regularly and store backups separately.
+Do not open suspicious emails or attachments.
+Use updated antivirus and security software.
+Keep systems and applications updated.
+Limit user permissions on company networks.
+Train employees to recognize cyber threats.
+4. Social Engineering
+Definition
+
+Social engineering is a technique used by attackers to manipulate people into revealing confidential information or performing actions that help the attacker.
+
+Instead of attacking computers directly, cybercriminals exploit human trust, emotions, curiosity, or fear to gain access to information or systems.
+
+Real-World Example
+
+An attacker calls an employee pretending to be an IT support technician. The attacker claims there is a problem with the employee's account and asks for their password. Trusting the caller, the employee shares the password, giving the attacker access to company systems.
+
+Prevention Methods
+Never share passwords with anyone.
+Verify the identity of people requesting sensitive information.
+Be cautious of unexpected phone calls, emails, or messages.
+Participate in cybersecurity awareness training.
+Follow company security procedures.
+Report suspicious requests immediately.
+5. Data Breach
+Definition
+
+A data breach occurs when unauthorized individuals gain access to confidential, sensitive, or protected information.
+
+The stolen data may include names, addresses, passwords, financial information, medical records, or business data. Data breaches can happen due to hacking, human error, weak security, or lost devices.
+
+Real-World Example
+
+A company's database is hacked because of weak security controls. The attackers steal customer information, including email addresses and passwords. The stolen data is later sold online and used for fraud and identity theft.
+
+Prevention Methods
+Use strong and unique passwords.
+Enable Multi-Factor Authentication (MFA).
+Encrypt sensitive data.
+Regularly update software and security systems.
+Restrict access to confidential information.
+Monitor systems for unusual activity.
+Train employees on cybersecurity best practices.
